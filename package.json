@@ -1,0 +1,23 @@
+{
+  "name": "unit-symbol",
+  "version": "1.0.3",
+  "description": "to translate between unit and unit symbol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-hks/unit-symbol.git"
+  },
+  "keywords": [
+    "unit",
+    "symbol"
+  ],
+  "author": "henry-hks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry-hks/unit-symbol/issues"
+  },
+  "homepage": "https://github.com/henry-hks/unit-symbol#readme"
+}
