@@ -1,6 +1,6 @@
 {
   "name": "unit-symbol",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "to translate between unit and unit symbol",
   "main": "index.js",
   "scripts": {
